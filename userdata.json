@@ -2,6 +2,7 @@
     {
         "device_id": "8c6650a9c426c7ca",
         "key": "key12345",
+        "password": "password123", 
         "expirydate": "31-12-2025",
         "Allowoffline": true
     },
